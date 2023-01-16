@@ -12,6 +12,6 @@ then
 elif [ "$a" -lt "$b" ]
 then
 	echo "A is less than B"
-	els
+else
 	echo "Invalid input"
 fi
